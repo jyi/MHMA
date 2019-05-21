@@ -1,4 +1,4 @@
-# A Dataset for Meta-Analysis of Defect Prediction Primary Studies #
+# A Dataset for Meta-Analysis of Defect Prediction Studies #
 
 ## Contributors ##
    * Jooyong Yi (jooyong@unist.ac.kr), UNIST (Ulsan National Institute of Science and Technology)
