@@ -1,7 +1,5 @@
 # A Dataset for Meta-Analysis of Defect Prediction Primary Studies #
 
-## URL: [https://github.com/jyi/MHMA](https://github.com/jyi/MHMA) ##
-
 ## Contributors ##
    * Jooyong Yi (jooyong@unist.ac.kr), UNIST (Ulsan National Institute of Science and Technology)
    * Vladimir Ivanov (v.ivanov@innopolis.ru), Innopolis University
