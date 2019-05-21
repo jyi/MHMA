@@ -8,11 +8,11 @@
    * Giancarlo Succi (g.succi@innopolis.ru), Innopolis University
 
 ## What This Is About ##
-In our [ICSE-NIER-18 paper](http://jooyongyi.com/papers/ICSE-NIER18.pdf) titled **Mining Plausible Hypotheses from the Literature via Meta-Analysis**, we conduct meta-analysis to mine plausible hypotheses about confounding factors that may affect the performance of defect prediction. 
+In our [ICSE-NIER-19 paper](http://jooyongyi.com/papers/ICSE-NIER19.pdf) titled **Mining Plausible Hypotheses from the Literature via Meta-Analysis**, we conduct meta-analysis to mine plausible hypotheses about confounding factors that may affect the performance of defect prediction. 
 
 In this repository, we share all datasets we collected, parts of which were used in our meta-analysis. 
 
-**Note**: If you use any part of our tool or data present in this repository, then please do cite our ICSE-NIER-18 paper.
+**Note**: If you use any part of our tool or data present in this repository, then please do cite our ICSE-NIER-19 paper.
 
 ## The Dataset ##
 
